@@ -2,6 +2,7 @@
 
 StarCoderExtension for AI Code generation
 
+(PROJECT IS FROZEN, Make fork if you need new feature or fix bug)
 
 Original AI: https://huggingface.co/bigcode/starcoder
 ## Features
